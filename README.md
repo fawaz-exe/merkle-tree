@@ -16,5 +16,5 @@ Merkle Root = H(H(v1||v2) || H(v3||v4))
     /     \                           /     \
    v1     v2                         v3     v4
 
-![](https://github.com/fawaz-exe/merkle-tree/blob/5635d64ef4c24dc8efd4f499be73610e35c3702f/utils/Bitcoin_whitepaper_merkel_tree.png)
+![Bitcoin Merkel Tree:](https://github.com/fawaz-exe/merkle-tree/blob/5635d64ef4c24dc8efd4f499be73610e35c3702f/utils/Bitcoin_whitepaper_merkel_tree.png)
 
