@@ -16,3 +16,5 @@ Merkle Root = H(H(v1||v2) || H(v3||v4))
     /     \                           /     \
    v1     v2                         v3     v4
 
+!(utils/Bitcoin_whitepaper_merkel_tree.png)
+
