@@ -39,6 +39,6 @@ const child2 = new MerkleTree('child2', 'child2 content', root.level + 2, root);
 root.addChild(child1);
 // root.addChild(child2);
 
-console.log(root.hash);
+console.log('Root.Hash : ',root.hash);
 // console.log(child1);
 // console.log(child2);
